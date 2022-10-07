@@ -4,6 +4,7 @@ network model for handwritten digits classification.
 
 1.	Setup Your Python Environment for machine learning
       a.	Install Anaconda : Anaconda is a collection of scientific Python packages, tools, resources, and IDEs.
+            https://www.anaconda.com/products/distribution
       b.	Check python and anaconda info
       c.	Lunch jupyter 
       d.	Install packages
