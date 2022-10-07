@@ -9,7 +9,7 @@ network model for handwritten digits classification.
       c.	Lunch jupyter 
       d.	Install packages
 2. Build your ANN model for handwritten digits classification
-      a. improt packagesb.
+      a. improt packages
       b. Load the data :we will use the MNSIT dataset: dataset of handwritten digits (0-9), has a training set of 60000 images(28*28) 
       and a test set of 10000 images (28*28)
       c. Preprocess the data
