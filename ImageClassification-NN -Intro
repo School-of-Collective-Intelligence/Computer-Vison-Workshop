@@ -1,0 +1,36 @@
+This workshop is for PhD students of the School of Collective Intelligence.
+In this workshop we will learn how to set up python environment for machine learning using ANACONDA and build an artificial neural 
+network model for handwritten digits classification.
+
+Part 1:Image classification using ANN
+
+1.Setup Your Python Environment for machine learning
+      a.	Install Anaconda : Anaconda is a collection of scientific Python packages, tools, resources, and IDEs.
+            https://www.anaconda.com/products/distribution
+      b.	Check python and anaconda info
+      c.	Lunch jupyter and create a new projectform for DigitsClassification using ANN
+      d.	Install packages
+2.Build your ANN model for handwritten digits classification
+      a. Improt packages
+      b. Load the data :we will use the MNSIT dataset: dataset of handwritten digits (0-9), has a training set of 60000 images(28*28) 
+      and a test set of 10000 images (28*28)
+      c. Preprocess the data
+      d. Define the model
+      e. Compile the model
+      f. Fit the model
+      g. Evaluate the model
+      h. Make predictions
+      i. Save the model
+  
+ Part2:Image classification using ANN
+1.Open Anaconda, lunch jupyter and create a new project form DigitsClassification using CNN
+2.Build your CNN model for handwritten digits classification
+      a. Improt packages
+      b. Load the MNIST dataset
+      c. Preprocess the data
+      d. Define the model
+      e. Compile the model
+      f. Fit the model
+      g. Evaluate the model
+      h. Make predictions
+      i. Save the model
