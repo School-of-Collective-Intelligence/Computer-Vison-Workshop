@@ -1,6 +1,6 @@
 This workshop is for PhD students of the School of Collective Intelligence.
 In this workshop we will learn how to set up python environment for machine learning using ANACONDA and build an artificial neural 
-network model for handwritten digits classification.
+network model for handwritten digits classification first, then create a model for emotions detection.
 
 Part 1:Image classification using ANN
 
@@ -22,7 +22,7 @@ Part 1:Image classification using ANN
       h. Make predictions
       i. Save the model
   
- Part2:Image classification using ANN
+Part2:Image classification using CNN
 1.Open Anaconda, lunch jupyter and create a new project form DigitsClassification using CNN
 2.Build your CNN model for handwritten digits classification
       a. Improt packages
@@ -34,3 +34,13 @@ Part 1:Image classification using ANN
       g. Evaluate the model
       h. Make predictions
       i. Save the model
+Part3:Emotions recognition using DeepFace
+1. Set up the environment
+2. Create your project 
+3. Install/ Import packages
+4. Create your emotion detection model
+      a. Load the images
+      b. Preprocess the images
+      c. Face detection
+      d. Load the classifiers (the haar-cascade XML files)
+      e. Emotion classification
