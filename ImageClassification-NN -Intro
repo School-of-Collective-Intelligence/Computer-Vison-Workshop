@@ -35,6 +35,8 @@ Part2:Image classification using CNN
       h. Make predictions
       i. Save the model
 Part3:Emotions recognition using DeepFace
+#DeepFace is a deep learning facial recognition framework (age, gender, emotion and race) created by a research group at Facebook. 
+It identifies human faces in digital images. DeepFace was trained on four million images uploaded by Facebook users.
 1. Set up the environment
 2. Create your project 
 3. Install/ Import packages
@@ -43,4 +45,6 @@ Part3:Emotions recognition using DeepFace
       b. Preprocess the images
       c. Face detection
       d. Load the classifiers (the haar-cascade XML files)
+         #Download haarcascade_forntalface_default.xml and haarcascade_eye.xmland then save the files in the project folder, 
+         you can find the files in the openCV GitHub page: https://github.com/opencv/opencv/tree/master/data/haarcascades
       e. Emotion classification
