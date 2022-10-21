@@ -38,7 +38,7 @@ Part3:Emotions recognition using DeepFace
 #DeepFace is a deep learning facial recognition framework (age, gender, emotion and race) created by a research group at Facebook. 
 It identifies human faces in digital images. DeepFace was trained on four million images uploaded by Facebook users.
 1. Set up the environment
-2. Create your project 
+2. Create your project #Folder with 2 subfolders (one for Images and the other one for Files)
 3. Install/ Import packages : OpenCV, deepface
 4. Create your emotion detection model
       a. Load the images
