@@ -39,7 +39,7 @@ Part3:Emotions recognition using DeepFace
 It identifies human faces in digital images. DeepFace was trained on four million images uploaded by Facebook users.
 1. Set up the environment
 2. Create your project 
-3. Install/ Import packages
+3. Install/ Import packages : OpenCV, deepface
 4. Create your emotion detection model
       a. Load the images
       b. Preprocess the images
