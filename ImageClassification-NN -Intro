@@ -45,6 +45,6 @@ It identifies human faces in digital images. DeepFace was trained on four millio
       b. Preprocess the images
       c. Face detection
       d. Load the classifiers (the haar-cascade XML files)
-         #Download haarcascade_forntalface_default.xml and haarcascade_eye.xmland then save the files in the project folder, 
-         you can find the files in the openCV GitHub page: https://github.com/opencv/opencv/tree/master/data/haarcascades
+         #Download: haarcascade_forntalface_default.xml and haarcascade_eye.xml then save the files in the project folder. 
+         You can find the files in the openCV GitHub page: https://github.com/opencv/opencv/tree/master/data/haarcascades
       e. Emotion classification
