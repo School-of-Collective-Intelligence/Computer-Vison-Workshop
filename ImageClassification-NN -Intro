@@ -15,7 +15,7 @@ Part 1:Image classification using ANN
       b. Load the data :we will use the MNSIT dataset: dataset of handwritten digits (0-9), has a training set of 60000 images(28*28) 
       and a test set of 10000 images (28*28)
       c. Preprocess the data
-      d. Define the CNN model # CNN consists of three primary layers: Convolutional Layer, Pooling layer, and fully connected layer.
+      d. Define the ANN model 
       e. Compile the model
       f. Fit the model
       g. Evaluate the model
@@ -28,7 +28,7 @@ Part2:Image classification using CNN
       a. Improt packages
       b. Load the MNIST dataset
       c. Preprocess the data
-      d. Define the model
+      d. Define the CNN model # CNN consists of three primary layers: Convolutional Layer, Pooling layer, and fully connected layer
       e. Compile the model
       f. Fit the model
       g. Evaluate the model
